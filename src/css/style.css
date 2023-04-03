@@ -1,0 +1,54 @@
+.about-menu{
+    margin-left: 460px !important;
+}
+
+.bg-none{
+    background-color: transparent !important;
+}
+
+.logos{
+    border-radius: 30px;
+    margin: 5px;
+}
+
+.carousel-h{
+    height: 600px;
+}
+
+.img-style{
+    border-bottom-left-radius: 100px;
+}
+
+.culture{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.bg-black{
+    color: #FFFFFF;
+    margin-top: 50px;
+    background-color: #000000;
+}
+
+.marg{
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.marg a{
+   text-decoration: none;
+   color: white;
+}
+
+.img-fluid{
+    height: 60px;
+    border-radius: 30px;
+}
+
+.card{
+    width: 18rem;
+}
+
+.foots{
+   
+}
